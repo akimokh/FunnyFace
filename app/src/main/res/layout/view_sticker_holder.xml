@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.yonko.funnyface.adapters.views.GridItemView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="fitCenter"
+    android:id="@+id/imageView"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

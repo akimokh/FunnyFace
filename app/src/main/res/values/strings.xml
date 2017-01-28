@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">FunnyFace</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="save">Save</string>
+
+
+    <string name="action_complete">action complete</string>
+    <string name="double_click_input_text">Double-click to enter text</string>
+    <string name="add_sticker">Add stickers</string>
+    <string name="add_bubble">Add bubbles</string>
+    <string name="complete">complete</string>
+    <string name="publish_comment">Say something chanting ......</string>
+    <string name="over_text_limit">You have exceeded your word limit</string>
+    <string name="load">Load</string>
+    <string name="camera">Camera</string>
+    <string name="error_compressing">error compressing</string>
+
+    <string name="image_gallery_title">FunnyFace</string>
+    <string name="card_gallery_label">FunnyFace</string>
+
+    <string name="brush_size">Brush size</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="copyright_yotaku_ltd">© Copyright Yotaku ltd.</string>
+    <string name="reset">Reset</string>
+</resources>

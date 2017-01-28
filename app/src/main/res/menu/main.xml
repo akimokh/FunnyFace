@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_camera"
+        android:title="@string/camera"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_camera"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_load"
+        android:title="@string/load"
+        android:orderInCategory="150"
+        android:icon="@android:drawable/ic_menu_gallery"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/menu_save"
+        android:title="@string/save"
+        android:orderInCategory="200"
+        android:icon="@android:drawable/ic_menu_save"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/menu_reset"
+        android:title="@string/reset"
+        android:orderInCategory="250"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/action_settings"
+        android:orderInCategory="250"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/menu_about"
+        android:title="@string/about"
+        android:orderInCategory="250"
+        android:icon="@android:drawable/ic_menu_info_details"
+        app:showAsAction="never"/>
+</menu>
