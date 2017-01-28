@@ -1,5 +1,5 @@
 # FunnyFace
-Android mobile application for image warping and processing
+Android mobile application for image warping and processing. It may not work properly on some devices!
 
 ## Warping
 ![fac1](https://cloud.githubusercontent.com/assets/24231815/22399503/43089334-e5a6-11e6-81f1-7bab05d0f9fb.png)
